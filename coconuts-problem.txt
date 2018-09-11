@@ -1,0 +1,56 @@
+Five sailors are shipwrecked, all they have are themselves, the
+lifeboat and the ship's pet monkey.  They (the five and the monkey)
+land on a small deserted tropical island.  The sailors realize 
+that food is going to be the major problem, all there is to eat on
+the island is coconuts so they organize themselves and the first day
+collect every coconut on the island and pile them up.
+
+They know that squabbles over food may break out so they agree that 
+the first thing the next morning they will divide the coconuts up and
+each will get an equal number.  They all go to sleep at night tired
+out from all the coconut gathering.  
+
+During the night the first sailor awakens and starts thinking that the 
+other four may cheat him of his fair share, so . .  he get's up and 
+(being careful not to waken the others) divides the coconut pile into
+five equal numbered piles (there is one coconut remainder that he gives 
+to the monkey - who is there awake.  The sailor takes his 1/5 and 
+goes off to the jungle to bury them, then piles the other four piles 
+back up and goes back to sleep satisfied he won't be guyed.
+
+Later . . .the second sailor awakens and starts thinking that the 
+other four may cheat him of his fair share, so . .  he get's up and 
+(being careful not to waken the others) divides the coconut pile into
+five equal numbered piles (there is one coconut remainder that he gives 
+to the monkey - who is there awake.  The sailor takes his 1/5 and 
+goes off to the jungle to bury them, then piles the other four piles 
+back up and goes back to sleep  he won't be guyed.
+
+Later . . .the third sailor awakens and starts thinking that the 
+other four may cheat him of his fair share, so . .  he get's up and 
+(being careful not to waken the others) divides the coconut pile into
+five equal numbered piles (there is one coconut remainder that he gives 
+to the monkey - who is there awake.  The sailor takes his 1/5 and 
+goes off to the jungle to bury them, then piles the other four piles 
+back up and goes back to sleep  he won't be guyed.
+
+Later . . .the fourth sailor (ditto the actions of the first three 
+including the remainder coconut to the monkey)
+
+Later . . .the fifth sailor (ditto the actions of the first four 
+including the remainder coconut to the monkey)
+
+IN THE MORNING!! - They all gather to divide up the coconuts that are
+left. It is obvious to all that the pile is materially diminished since
+the previous evening but all being more or less equally guilty nobody
+complains.  They divide up the pile into five equal numbered piles,
+there is no remainder.
+
+What is the minimum number of coconuts in the original pile.
+
+
+
+Ostatni podział: min. 5 kokosów
+
+5-ty obudzony:
+skoro zostać ma 5, a bierze 1/5 i 1 dla małpy to kokosów jest: 
